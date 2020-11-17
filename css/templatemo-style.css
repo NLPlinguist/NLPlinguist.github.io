@@ -206,14 +206,15 @@ a:hover {
 .tm-portfolio-item {
   display: flex;
   align-items: center;
-  margin-bottom: 80px;
+  margin-top: 20px;
+  margin-bottom: 60px;
   max-width:100%;
   max-height:100%;
 }
 
 .square {
-    height: auto;
-    width: 220px;
+    height: 220px;
+    width: auto;
 }
 
 .square2 {
@@ -222,8 +223,8 @@ a:hover {
 }
 
 .square3 {
-    height: 120px;
-    width: auto;
+    height: auto;
+    width: 120px;
 }
 
 .tm-portfolio-name {
@@ -315,8 +316,6 @@ p {
 
 .tm-contact-item-icon {
   margin-bottom: 15px;
-  width: 120;
-  height: 120;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -378,7 +377,7 @@ p {
     min-height: 0;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 30px;
+    margin-bottom: 60px;
   }
 
   .tm-contact-item:last-child {
