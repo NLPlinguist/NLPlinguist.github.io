@@ -127,7 +127,7 @@ a:hover {
 }
 
 .tm-brand-container-outer {
-  margin-top: 0px;
+  margin-top: -400px;
 }
 
 .tm-brand-container-inner {
@@ -215,6 +215,11 @@ a:hover {
 .square {
     height: 220px;
     width: auto;
+}
+
+.square1 {
+    height: auto;
+    width: 220px;
 }
 
 .square2 {
